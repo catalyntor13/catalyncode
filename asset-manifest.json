@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/catalyncode/static/css/main.42a871f8.css",
+    "main.js": "/catalyncode/static/js/main.877e2950.js",
+    "static/media/lifestyle.jpg": "/catalyncode/static/media/lifestyle.6f635de5fbf89c457bae.jpg",
+    "static/media/w-image.png": "/catalyncode/static/media/w-image.72f49b02f874005e1ac3.png",
+    "static/media/mic-dejun.png": "/catalyncode/static/media/mic-dejun.0e0f1d4551f716b93525.png",
+    "static/media/evaluare.jpg": "/catalyncode/static/media/evaluare.3f7364c9f654a93272e2.jpg",
+    "static/media/client.png": "/catalyncode/static/media/client.c0304eb054d1b7a4b2e6.png",
+    "static/media/herbalife-image.png": "/catalyncode/static/media/herbalife-image.896a00519a35d970da51.png",
+    "index.html": "/catalyncode/index.html",
+    "main.42a871f8.css.map": "/catalyncode/static/css/main.42a871f8.css.map",
+    "main.877e2950.js.map": "/catalyncode/static/js/main.877e2950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a871f8.css",
+    "static/js/main.877e2950.js"
+  ]
+}
