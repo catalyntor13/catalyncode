@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/catalyncode/static/css/main.42a871f8.css",
-    "main.js": "/catalyncode/static/js/main.877e2950.js",
+    "main.css": "/catalyncode/static/css/main.685ba113.css",
+    "main.js": "/catalyncode/static/js/main.8b875c1b.js",
+    "static/media/salad.png": "/catalyncode/static/media/salad.293f42e6d2cf67356147.png",
     "static/media/lifestyle.jpg": "/catalyncode/static/media/lifestyle.6f635de5fbf89c457bae.jpg",
-    "static/media/w-image.png": "/catalyncode/static/media/w-image.72f49b02f874005e1ac3.png",
     "static/media/mic-dejun.png": "/catalyncode/static/media/mic-dejun.0e0f1d4551f716b93525.png",
     "static/media/evaluare.jpg": "/catalyncode/static/media/evaluare.3f7364c9f654a93272e2.jpg",
     "static/media/client.png": "/catalyncode/static/media/client.c0304eb054d1b7a4b2e6.png",
-    "static/media/herbalife-image.png": "/catalyncode/static/media/herbalife-image.896a00519a35d970da51.png",
+    "static/media/herba-logo.png": "/catalyncode/static/media/herba-logo.8dde46f4dd806d0fb13f.png",
+    "static/media/batoane.jpg": "/catalyncode/static/media/batoane.97514d763db5d28f95d7.jpg",
     "index.html": "/catalyncode/index.html",
-    "main.42a871f8.css.map": "/catalyncode/static/css/main.42a871f8.css.map",
-    "main.877e2950.js.map": "/catalyncode/static/js/main.877e2950.js.map"
+    "main.685ba113.css.map": "/catalyncode/static/css/main.685ba113.css.map",
+    "main.8b875c1b.js.map": "/catalyncode/static/js/main.8b875c1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.42a871f8.css",
-    "static/js/main.877e2950.js"
+    "static/css/main.685ba113.css",
+    "static/js/main.8b875c1b.js"
   ]
 }
